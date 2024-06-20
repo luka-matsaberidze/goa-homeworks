@@ -7,17 +7,17 @@ name = "luka"
 surname = "matsaberidze"
 
 
-# name aris cvladi
+#  "name" aris cvladi
 
-# "=" aris cvlais mnisvnelobis mimnijbeli simbolo
+#  "=" aris cvlais mnisvnelobis mimnijbeli simbolo
 
-# "nika" aris cvladisvis mnisvneloba
+#  "luka" aris cvladisvis mnisvneloba
 
 print (name)
  
-name = "luka"      #es aris str (string) tipis cvladi
+name = "luka"      #es aris "str" (string) tipis cvladi
 
-age = 14          #es aris int (integer) mteli ricxvi
+age = 14          #es aris "int" (integer) mteli ricxvi 
 
 height = 179     #es aris "floaf" tipis cvladi (atwiladi)
 
@@ -27,22 +27,23 @@ good_at_math = True        # "true" an "false"
 
 is_ugly = False   #snakecase  (weris stili)
 
-isUgly = False
+isUgly = False    #ese iwereba "java" ze 
 
 
 print (name + " " + surname)
 
 
-print (type(age))     #"int"
-print (type(name))     #"str"
-print (type(surname))    #"str"
-print (type(height))      #"int"
-print (type(good_at_math))    #"bool"
+print (type(age))     #"int"-  (integer)
+print (type(name))     #"str"-  (string)
+print (type(surname))    #"str"-  (string)
+print (type(height))      #"int"-  (integer)
+print (type(good_at_math))    #"bool"-  (boolean)
 
 
+#HOMEWORK
 
 
-print (name + " " + surname + " " +  "aris" " " + str(age) + " " + "wlis, igi aris"+ " " + str(height) + " " + "metris" + " " + "is aris kargi matematiksi"  )
+print (name + " " + surname + " " +  "aris" " " + str(age) + " " + "wlis, igi aris"+ " " + str(height) + " " + "metris," + " " + "is aris kargi matematiksi." )
  
 
 
