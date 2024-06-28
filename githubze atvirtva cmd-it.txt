@@ -1,6 +1,0 @@
-rogot avtvirtot githubze?
- 
-
-git add .
-git commit -m "second commit"
-git push
